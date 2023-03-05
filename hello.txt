@@ -9,7 +9,7 @@ hello world! hello git!
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
-hello world! hello git!
+hello world! hello git! local modify 333
 hello world! hello git! 222
 hello world! hello git! 222
 
@@ -20,6 +20,7 @@ commit by A 21:48
 commit by B 21:48
 commit by A 22:40 git push
 commit by A 20:28 SSH
+commit by A 10:29 local modify
 
 tset
 group co-work by C 18:16
